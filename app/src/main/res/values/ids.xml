@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="play_again_button" type="id">play_again_button</item>
+    <item name="score_text" type="id">score_text</item>
+    <item name="submit_button" type="id">submit_button</item>
+    <item name="answers_group" type="id">answer_group</item>
+    <item name="character_image" type="id">character_image</item>
+    <item name="welcome_text" type="id">welcome_text</item>
+    <item name="start_button" type="id">start_button</item>
+</resources>
